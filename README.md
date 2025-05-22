@@ -1,5 +1,6 @@
 Stefan Tasevski 183122
-2. CFG: 
+2. CFG:
+![CFG](cfg.png) 
 - NULL proverka (if(allItems == null))
 - for loop
 - proverka na ime (if (item.getName() == null || item.getName().length() == 0))
